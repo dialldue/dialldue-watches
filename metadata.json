@@ -1,0 +1,6 @@
+{
+  "name": "Diall.Due Premium Watch Store",
+  "description": "An online watch store with a MySQL database backend, managing catalog, wishlists, user sessions, and product reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
